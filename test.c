@@ -185,3 +185,9 @@ class User:
 
 
 person = User
+
+
+
+
+person = Ahmadjon 
+// bissmila rahmon raxim
